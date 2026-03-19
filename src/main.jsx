@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import ALUSimulator from './ALUSimulator'
+import ALUSimulator from './alu-simulator'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
